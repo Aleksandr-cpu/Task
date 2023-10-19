@@ -1,0 +1,15 @@
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.csproj.AssemblyReference.cache
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.AssemblyInfoInputs.cache
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.AssemblyInfo.cs
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.csproj.CoreCompileInputs.cache
+C:\Users\KroT\Desktop\Task\Task66\bin\Debug\net6.0\Task66.exe
+C:\Users\KroT\Desktop\Task\Task66\bin\Debug\net6.0\Task66.deps.json
+C:\Users\KroT\Desktop\Task\Task66\bin\Debug\net6.0\Task66.runtimeconfig.json
+C:\Users\KroT\Desktop\Task\Task66\bin\Debug\net6.0\Task66.dll
+C:\Users\KroT\Desktop\Task\Task66\bin\Debug\net6.0\Task66.pdb
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.dll
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\refint\Task66.dll
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.pdb
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\Task66.genruntimeconfig.cache
+C:\Users\KroT\Desktop\Task\Task66\obj\Debug\net6.0\ref\Task66.dll
